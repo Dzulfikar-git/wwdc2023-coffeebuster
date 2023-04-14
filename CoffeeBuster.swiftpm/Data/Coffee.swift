@@ -147,7 +147,7 @@ struct Coffee: Identifiable, Hashable, Codable {
           },
           {
             "id": 27,
-            "name": "Almond Milk Honey Flat White with Starbucks Reserve® Espresso",
+            "name": "Almond Milk Honey Flat White with Espresso",
             "isSelected": false
           },
           {
